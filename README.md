@@ -7,7 +7,7 @@
 
 ### Background:
 ---
-City planners need to leveraget socio-economic data of certain geographical areas, in order to make best possible decisions for the city, on choose the areas to spend money on development.
+In order to make best possible decisions for the city, on which areas to spend money on development, city planners need to leverage socio-economic data of certain geographical areas.
 
 The objective is to accurately predict the target variable - which is a blended metric quantifying growth/decline in the economic health of an area over the last decade.
 <br>
